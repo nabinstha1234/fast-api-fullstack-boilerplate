@@ -1,0 +1,1 @@
+# fast-api-fullstack-boilerplate
